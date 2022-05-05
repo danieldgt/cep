@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 function cep() {
     return (
         <div>
-            <h1>CEP -GERA 2</h1>
+            <h1>CEP -GERA</h1>
             <Contador />
         </div>
     )
